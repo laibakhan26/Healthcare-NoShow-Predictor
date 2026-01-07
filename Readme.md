@@ -190,7 +190,7 @@ Healthcare-NoShow-Predictor/
 Data Analyst | Machine Learning Enthusiast
 
 - Email: laibassvm123@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/laiba-fatima-a5a0a528b/
 - GitHub: [@laibakhan26](https://github.com/laibakhan26)
 - Location: Bangalore, India
 
