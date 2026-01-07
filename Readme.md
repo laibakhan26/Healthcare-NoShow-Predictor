@@ -1,4 +1,4 @@
-# 🏥 Healthcare Appointment No-Show Predictor
+# Healthcare Appointment No-Show Predictor
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow.svg)
@@ -102,38 +102,38 @@ Healthcare-NoShow-Predictor/
 
 ## Project Workflow
 
-### Phase 1: Data Exploration ✅
+### Phase 1: Data Exploration
 - Load and inspect dataset
 - Check data quality (missing values, duplicates)
 - Analyze target variable distribution
 - Initial insights and statistics
 
-### Phase 2: Data Cleaning & Preparation 🔄
+### Phase 2: Data Cleaning & Preparation 
 - Handle date/time conversions
 - Remove outliers and anomalies
 - Create derived features
 - Encode categorical variables
 
-### Phase 3: Exploratory Data Analysis (EDA) ⏳
+### Phase 3: Exploratory Data Analysis (EDA)
 - Univariate analysis
 - Bivariate analysis (features vs target)
 - Correlation analysis
 - Identify key predictors
 
-### Phase 4: Feature Engineering ⏳
+### Phase 4: Feature Engineering
 - Time-based features (day of week, hour, waiting time)
 - Patient history features
 - Distance/location features
 - Interaction features
 
-### Phase 5: Model Building ⏳
+### Phase 5: Model Building
 - Train-test split
 - Baseline models
 - Hyperparameter tuning
 - Model evaluation and selection
 - Feature importance analysis
 
-### Phase 6: Dashboard & Deployment ⏳
+### Phase 6: Dashboard & Deployment
 - Power BI interactive dashboard
 - Business insights report
 - Recommendations engine
